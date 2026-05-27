@@ -23,7 +23,7 @@ st.set_page_config(
 )
 
 # ── Header ────────────────────────────────────────────
-st.title("📊 Sales Data Pipeline Dashboard")
+st.title("📊 Sales Data Pipeline Dashboard Rakesh")
 st.caption("Bronze → Silver → Gold | Python · Pandas · DuckDB · Streamlit")
 
 # ── Sidebar ───────────────────────────────────────────
